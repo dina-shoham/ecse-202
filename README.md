@@ -1,5 +1,4 @@
-# ecse-202
-Coursework from ECSE 202 - Winter 2019
+# ECSE 202: Intro to Software Engineering (W2019)
 
 Assignment 1: Bouncing ball simulation
 
